@@ -15,7 +15,7 @@ Antes de começar, certifique-se de que você tenha as seguintes ferramentas ins
 
    ```bash
    git clone https://github.com/GbrlSouza/Cypress-Tests.git
-   cd nome-do-repositorio
+   cd Cypress-Tests
    ```
 
 2. Instale as dependências:
